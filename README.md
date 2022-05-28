@@ -1,1 +1,2 @@
-# data-systems
+# Códigos para gerenciamentos e armazenamento de dados.
+<p>Estou criando esse repositório para guardar alguns exercícios da faculdade que podem ser usados como sistemas para gerenciamento e armazenamento de dados. Por enquanto esses exercícios possuem códigos simples que ainda precisam ser otimizados e algumas coisas ainda precisam ser adicionadas. Eu pretendo ir atualizando esses códigos conforme eu for aprendendo coisas novas na faculdade, então por enquanto esses códigos são só para estudos. Mas sinta-se livre para utilizar se precisar.</p>
