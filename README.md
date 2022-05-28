@@ -4,3 +4,8 @@
 <h3>Inglês</h3>
 <p>I'm creating this repository to store some college exercises that can be used as systems for managing and storing data. For now these exercises have simple code that still needs to be optimized and some things still need to be added. I intend to update these codes as I learn new things in college, so for now these codes are just for studies. But feel free to use it if you need to.</p>
 <p>Note: Some parts of the exercises are written in Portuguese (inside the printf), but they can be easily translated.</p>
+
+# Exercises:
+<p>Note: I recently learned to program in C, so some exercises may have errors.</p>
+<h3>ex01.c</h3>
+<p></p>
