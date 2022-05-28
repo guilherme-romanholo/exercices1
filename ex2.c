@@ -1,3 +1,11 @@
+/*
+Um hotel cobra R$300,00 por diária e mais uma taxa adicional de serviços. Se a diária for menor
+que 15, a taxa é de R$20,00. Se o número de diárias for igual a 15, a taxa é de R$14,00. Se o
+número for maior que 15, a taxa é de R$ 12,00. Considere que há 200 hóspedes e que para cada um
+existe um registro com nome, endereço, fone, cidade, estado e o número de diárias. Faça um
+programa que escreva: os dados pessoais e o total a pagar de cada hóspede; o total ganho pelo hotel
+e total de diárias.
+*/
 #include <stdio.h>
 
 #define precoDiaria 300
